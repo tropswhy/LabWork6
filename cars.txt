@@ -1,0 +1,19 @@
+Jeep|Renegade|Black|23990
+Jeep|Renegade|White|23990
+Jeep|Renegade|Pink|23990
+Jeep|Renegade|Red|23990 
+Toyota|Corolla|Blue|19590
+Toyota|Corolla|White|19590
+Toyota|Corolla|Red|19590
+Toyota|Corolla|Black|19590
+Tesla|Model X|Black|79990
+Tesla|Model X|White|79990
+Kia|Rio S|Red|16690
+Kia|Rio S|Black|16690
+Kia|Rio S|Blue|16690
+Kia|Rio S|White|16690
+Kia|Rio S|Yellow|16690
+Chevrolet|Impala|Black|31590
+Lada|Priora|Blue|5990
+Lada|Priora|Black|5990
+Lada|Priora|White|5990
